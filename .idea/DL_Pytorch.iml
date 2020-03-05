@@ -7,6 +7,7 @@
     <orderEntry type="module" module-name="GupaoAi2" />
     <orderEntry type="module" module-name="GuPaoAi" />
     <orderEntry type="module" module-name="GupaoAi-Y2" />
+    <orderEntry type="module" module-name="Gupao-Deep-Learning" />
   </component>
   <component name="TestRunnerService">
     <option name="projectConfiguration" value="pytest" />

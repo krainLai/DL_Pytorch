@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/DL_Pytorch.iml" filepath="$PROJECT_DIR$/.idea/DL_Pytorch.iml" />
       <module fileurl="file://$PROJECT_DIR$/../GuPaoAi/.idea/GuPaoAi.iml" filepath="$PROJECT_DIR$/../GuPaoAi/.idea/GuPaoAi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DL_Pytorch-GuPao/.idea/Gupao-Deep-Learning.iml" filepath="$PROJECT_DIR$/../DL_Pytorch-GuPao/.idea/Gupao-Deep-Learning.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../GupaoAi-Y2/.idea/GupaoAi-Y2.iml" filepath="$PROJECT_DIR$/../../GupaoAi-Y2/.idea/GupaoAi-Y2.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../GupaoAi2/.idea/GupaoAi2.iml" filepath="$PROJECT_DIR$/../../GupaoAi2/.idea/GupaoAi2.iml" />
     </modules>
